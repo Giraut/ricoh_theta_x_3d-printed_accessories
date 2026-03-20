@@ -7,6 +7,8 @@ A 3D-printed lens cover, 3D-printed base stand and a variant that mounts onto a 
 ![Ricoh Theta X 3D-printed accessories #2](images/ricoh_theta_x_3d-printed_accessories2.jpg)
 ![Ricoh Theta X 3D-printed accessories #3](images/ricoh_theta_x_3d-printed_accessories3.jpg)
 
+https://github.com/user-attachments/assets/2581c1f3-8a20-4212-920c-432def58eb03
+
 * [Files](#files)
 * [Assembly](#assembly)
 
