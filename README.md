@@ -1,5 +1,5 @@
 # Ricoh Theta X - 3D-printed accessories
-### Version 1.0
+### Version 1.1
 
 A 3D-printed lens cover, 3D-printed base stand and a variant that mounts onto a Benro selfie stick for the Ricoh Theta X camera.
 
@@ -18,12 +18,25 @@ https://github.com/user-attachments/assets/2581c1f3-8a20-4212-920c-432def58eb03
 
 ### Lens cover
 
+#### Version for the naked camera
+
 A lens cover to protect the Ricoh Theta X's delicate fisheye lenses.
 
 ![Ricoh Theta X lens cover](images/ricoh_theta_x_lens_cover.jpg)
 
 - [FreeCAD model for the lens cover](ricoh_theta_x_lens_cover.FCStd)
 - [STEP model for the lens cover](ricoh_theta_x_lens_cover.step)
+
+#### Version for the camera with Puluz lens guards installed
+
+The Ricoh Theta X can be equipped with [Puluz lens guard](https://www.puluz.com/p/PU590T/PULUZ-Lens-Guard-PC-Protective-Cover-Kits-for-Ricoh-Theta-SC2-S-V-Transparent-.htm). They're designed for the Ricoh Theta SC2, S or V cameras, and in theory, they're too small for the Ricoh Theta X's lenses. But in practice, they work quite well.
+
+Of course, the Puluz lens guards bulge out too much for the regular lens cover. So here's a wider version of the lens cover that can accommodate them.
+
+![Ricoh Theta X lens cover](images/ricoh_theta_x_lens_cover_with_puluz_lens_guards.jpg)
+
+- [FreeCAD model for the lens cover for the camera with Puluz lens guards installed](ricoh_theta_x_lens_cover_with_puluz_lens_guards.FCStd)
+- [STEP model for the lens cover for the camera with Puluz lens guards installed](ricoh_theta_x_lens_cover_with_puluz_lens_guards.step)
 
 ### Base
 
