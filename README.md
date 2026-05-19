@@ -29,12 +29,12 @@ A lens cover to protect the Ricoh Theta X's delicate fisheye lenses.
 
 #### Version for the camera with Puluz lens guards installed
 
-The Ricoh Theta X can be equipped with [Puluz lens guard](https://www.puluz.com/p/PU590T/PULUZ-Lens-Guard-PC-Protective-Cover-Kits-for-Ricoh-Theta-SC2-S-V-Transparent-.htm). They're designed for the Ricoh Theta SC2, S or V cameras, and in theory, they're too small for the Ricoh Theta X's lenses. But in practice, they work quite well.
+The Ricoh Theta X can be equipped with [Puluz lens guards](https://www.puluz.com/p/PU590T/PULUZ-Lens-Guard-PC-Protective-Cover-Kits-for-Ricoh-Theta-SC2-S-V-Transparent-.htm). They're designed for the Ricoh Theta SC2, S or V cameras, and in theory, they're too small for the Ricoh Theta X's lenses. But in practice, they work quite well (but can be made to work better with the Theta X - see below).
 
 Of course, the Puluz lens guards bulge out too much for the regular lens cover. So here's a wider version of the lens cover that can accommodate them.
 
 ![Ricoh Theta X lens cover](images/ricoh_theta_x_lens_cover_with_puluz_lens_guards.jpg)
-
+1
 - [FreeCAD model for the lens cover for the camera with Puluz lens guards installed](ricoh_theta_x_lens_cover_with_puluz_lens_guards.FCStd)
 - [STEP model for the lens cover for the camera with Puluz lens guards installed](ricoh_theta_x_lens_cover_with_puluz_lens_guards.step)
 
@@ -55,6 +55,26 @@ A universal base stand that holds the Ricoh Theta X camera upright firmly, desig
 
 - [FreeCAD model for the base with Benro selfie stick mount](ricoh_theta_x_base_with_benro_selfie_stick_mount.FCStd)
 - [STEP model for the base with Benro selfie stick mount](ricoh_theta_x_base_with_benro_selfie_stick_mount.step)
+
+### Puluz lens guard adapter ring
+
+![Ricoh Theta X Puluz lens guard adapter ring #1](images/ricoh_theta_x_puluz_lens_guard_adapter_ring1.jpg)
+![Ricoh Theta X Puluz lens guard adapter ring #2](images/ricoh_theta_x_puluz_lens_guard_adapter_ring2.png)
+![Ricoh Theta X Puluz lens guard adapter ring, mounted](images/ricoh_theta_x_puluz_lens_guard_adapter_ring3.jpg)
+![Ricoh Theta X Puluz lens guard adapter ring, stitch line comparison](images/ricoh_theta_x_puluz_lens_guard_adapter_ring4.jpg)
+
+The [Puluz lens guards](https://www.puluz.com/p/PU590T/PULUZ-Lens-Guard-PC-Protective-Cover-Kits-for-Ricoh-Theta-SC2-S-V-Transparent-.htm) are designed for the Ricoh Theta SC2, S or V cameras, which have smaller lenses / lens bases than the Theta X. While they work on the Theta X, they're not ideal, for the following reasons:
+
+- They're in contact with the conical lens bases of the Theta X only on the inner edge of the lens guards, which isn't a lot of surface for the double-face adhesive to grab onto.
+- Because the flat bottoms of the lens guards don't rest on the surface of the camera around the lens bases, they don't sit low enough, and the very edges of the lens guards tend to blur the stitch line a bit.
+- They're not removable - although that's a limitation of the lens guards themselves.
+
+The Puluz lens guards can be modified so they sit a bit lower on the lens, gluing this 3D-printed adapter ring onto the base of each lens guard to clip onto the edge of the Theta X's lens base, so they stay in place by friction alone, making the lens guards removable.
+
+- [FreeCAD model for one Puluz lens guard adapter ring](ricoh_theta_x_puluz_lens_guard_adapter_ring.FCStd)
+- [STEP model for one Puluz lens guard adapter ring](ricoh_theta_x_puluz_lens_guard_adapter_ring.step)
+
+
 
 
 
@@ -81,3 +101,23 @@ This base stand can be screwed onto any surface or heavy object to turn it into 
 - Lock the base in place with a 5mm screw
 
 ![Base with Benro selfie stick mount - assembly #3](images/ricoh_theta_x_3d-printed_base_with_benro_selfie_stick_mount_assembly3.jpg)
+
+### Puluz lens guard adapter ring
+
+- Adjust the fit of the ring onto the lens base: it should fit around the edge of the base with just enough friction to stay in place, but not so much that force is required to remove it with a blade. If it's a bit too tight, gently sand down the inner surface of the ring with 800-grit sandpaper. If it won't fit or it's too loose, adjust the diameter in 0.02 mm increments and reprint it (it takes only a couple of minute)
+
+- peel off the black double face adhesive front and rear of the lens guard's lip.
+
+![Ricoh Theta X Puluz lens guard adapter ring - assembly #1](images/ricoh_theta_x_puluz_lens_guard_adapter_ring_assembly1.jpg)
+
+- With a Dremel, bevel the inner edge of the lens guard 15/20 degrees inward as deep as possible, but not so deep as to separate the lens guard's lip off the domed part. The idea is to let the lens guard sit as low as possible on the lens base.
+
+![Ricoh Theta X Puluz lens guard adapter ring - assembly #2](images/ricoh_theta_x_puluz_lens_guard_adapter_ring_assembly2.jpg)
+
+- Glue the lens guard onto the adapter ring. Use as little glue as possible around the adapter's groove. Prefer epoxy (such as Araldite 2012) to superglue, to avoid clouding the lens guard with cyanoacrylate fumes, and to have enough time to position the lens guard onto the adapter ring properly.
+
+![Ricoh Theta X Puluz lens guard adapter ring - assembly #3](images/ricoh_theta_x_puluz_lens_guard_adapter_ring_assembly3.jpg)
+
+- With a Dremel, chamfer the outer edge of the lens guard all around, to open up the fisheye lens' field of view around the edge of the image as much as possible, to avoid stitch line artifacts as much as possible.
+
+![Ricoh Theta X Puluz lens guard adapter ring - assembly #4](images/ricoh_theta_x_puluz_lens_guard_adapter_ring_assembly4.jpg)
