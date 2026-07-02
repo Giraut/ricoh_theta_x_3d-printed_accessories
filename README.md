@@ -1,5 +1,5 @@
 # Ricoh Theta X - 3D-printed accessories
-### Version 1.1
+### Version 1.2
 
 A 3D-printed lens cover, 3D-printed base stand and a variant that mounts onto a Benro selfie stick for the Ricoh Theta X camera.
 
@@ -49,12 +49,21 @@ A base that holds the Ricoh Theta X camera upright firmly. May be mounted onto a
 
 ### Base with Benro selfie stick mount
 
-A universal base stand that holds the Ricoh Theta X camera upright firmly, designed to replace the head of a [Benro BK15 mini tripod and selfie stick](https://benrousa.com/mini-tripod-and-selfie-stick-with-remote-for-smartphones-black-bk15/).
+A base that holds the Ricoh Theta X camera upright firmly, designed to replace the head of a [Benro BK15 mini tripod and selfie stick](https://benrousa.com/mini-tripod-and-selfie-stick-with-remote-for-smartphones-black-bk15/).
 
 ![Ricoh Theta X base with benro selfie stick mount.jpg](images/ricoh_theta_x_base_with_benro_selfie_stick_mount.jpg)
 
-- [FreeCAD model for the base with Benro selfie stick mount](ricoh_theta_x_base_with_benro_selfie_stick_mount.FCStd)
+- [FreeCAD model for the base with Benro selfie stick mount](ricoh_theta_x_base.FCStd)
 - [STEP model for the base with Benro selfie stick mount](ricoh_theta_x_base_with_benro_selfie_stick_mount.step)
+
+### Base with space for a Falcam F22 mounting plate
+
+A base that holds the Ricoh Theta X camera upright firmly, with extra space at the bottom for a [Falcam F22](https://www.ulanzi.com/collections/quick-release-system/products/falcam-f22-insta360-action-camera-quick-release-kit-2564) mounting plate if your camera is equipped with one. May be mounted onto any surface with two countersunk head M3 screws.
+
+![Ricoh Theta X base with space for a Falcam F22 mounting plate](images/ricoh_theta_x_base_with_space_for_falcam_f22_mounting_plate.jpg)
+
+- [FreeCAD model for the base with space for a Falcam F22 mounting plate](ricoh_theta_x_base.FCStd)
+- [STEP model for the base with space for a Falcam F22 mounting plate](ricoh_theta_x_base_with_space_for_falcam_f22_mounting_plate.step)
 
 ### Puluz lens guard adapter ring
 
